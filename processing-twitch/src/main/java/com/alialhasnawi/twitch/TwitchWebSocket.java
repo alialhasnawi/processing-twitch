@@ -116,7 +116,7 @@ public class TwitchWebSocket {
 
     /**
      * Join the specified twitch.tv channel and begin listening to messages there.
-     * The websocket must be 
+     * The websocket must be already open.
      * 
      * @param channelName name of channel as it appears in the URL to the stream.
      */
