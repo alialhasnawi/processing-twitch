@@ -8,7 +8,7 @@ To use this package, you need:
 2. An OAuth token for your Twitch account. OAuth tokens can be generated easily at [this link](https://twitchapps.com/tmi/)
 
 ### Example
-The following processing sketch displays the most recent chat message in a Twitch channel.
+The following Processing sketch displays the most recent chat message in a Twitch channel.
 ```java
 import com.alialhasnawi.twitch.*;
 
@@ -31,8 +31,8 @@ void draw(){
 
 # Installation
 To install: 
-1. Unzip the **processing_twitch.zip** into the Documents/processing/libraries folder.
-2. Restart processing.
+1. Unzip the **processing_twitch.zip** (available in the [releases tab](https://github.com/alialhasnawi/processing-twitch/releases/)) into the Documents/processing/libraries folder.
+2. Restart Processing.
 3. Add the library using the menubar: **Sketch > Import Library > processing_twitch** .
 
 # Interface
